@@ -73,7 +73,7 @@
                     <div class="right">
                         <div class="overlay"></div>
                         <div class="content text">
-                            <h1 class="heading">Inventory Stock Management</h1>
+                            <h1 class="heading">Test Laravel</h1>
                             <p>by Fazril Ramadhan</p>
                         </div>
                     </div>
@@ -85,7 +85,7 @@
     <!-- END WRAPPER -->
 </body>
 <script type="text/javascript">
-   $(function () {
+    $(function() {
         $('input').iCheck({
             checkboxClass: 'icheckbox_square-blue',
             radioClass: 'iradio_square-blue',
